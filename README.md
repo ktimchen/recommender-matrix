@@ -12,7 +12,7 @@ To build a recommender system (item-based filtering enhanced by SVD):
 
 More details:
 
-0) scrappy.py walks through the boardgamegeek's xmlapi2
+0) scrappy.py walks through the boardgamegeek's xmlapi2.
 
 1) sparse_matrix_from_dataframe.ipynb creates a scipy sparse matrix from a dataframe of ratings of the form (game ID, user, rating given).
 
